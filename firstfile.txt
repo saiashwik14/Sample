@@ -1,0 +1,5 @@
+This is the first file created in folder and now editing this in working directory(Not added to staging area)
+
+This is now added in staging area
+
+This is force removed from staging area to working directory and modified again
